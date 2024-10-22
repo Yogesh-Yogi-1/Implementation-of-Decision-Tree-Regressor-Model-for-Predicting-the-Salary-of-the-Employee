@@ -62,6 +62,7 @@ plt.show()
 ```
 ## Output:
 ![Screenshot 2024-10-22 233310](https://github.com/user-attachments/assets/fa22fd88-5fa6-4141-81a4-9c3c6956dd4f)
+
 ![Screenshot 2024-10-22 233321](https://github.com/user-attachments/assets/342c746e-4e50-4738-a143-25e130c185c1)
 ![Screenshot 2024-10-22 233327](https://github.com/user-attachments/assets/a47d08b4-b5ea-485f-9bef-42558227fe73)
 ### mse:
